@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6&height=150&section=header" width="100%"/>
 
-<h2 align="center">Hey there, Vineel this side!</h2>
+<h2 align="center">Hey there, Vineel this side! 👋</h2>
 
 <br/>
 
@@ -17,10 +17,10 @@
 
 ---
 
-### 🧠 My Digital Garden
-I treat my personal website as an **"External Brain"**—a living, breathing knowledge base where I document everything I build and learn. It's not just a portfolio; it's an open-source educational resource.
-- 📚 **In-depth Notes** on Reinforcement Learning, AI, and Machine Learning.
-- 💻 **Tutorials** on Flutter, Dart, and Cross-Platform Mobile Development.
+### 🌐 Welcome to My Website
+My personal website is my digital home. It's where I share more about my background, document my ongoing learning journey, and write detailed blogs for the community.
+- ✍️ **Tech Blogs** on Flutter, Dart, and Cross-Platform Mobile Development.
+- 📚 **Learning Notes** on Reinforcement Learning, AI, and Machine Learning.
 - 🎓 **Study Materials** for GATE CSE.
 
 <p align="center">
@@ -31,7 +31,25 @@ I treat my personal website as an **"External Brain"**—a living, breathing kno
 
 ---
 
-### 🌐 Socials
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+### 🔗 Socials
 <p align="left">
   <a href="https://linkedin.com/in/vineelvanjari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -42,20 +60,6 @@ I treat my personal website as an **"External Brain"**—a living, breathing kno
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineelvanjari&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3" alt="Vineel's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineelvanjari&theme=transparent&hide_border=true&title_color=3B82F6&text_color=A3A3A3" alt="Vineel's GitHub Streak" height="150" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6&height=100&section=footer" width="100%"/>
