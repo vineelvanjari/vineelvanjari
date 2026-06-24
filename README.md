@@ -18,10 +18,7 @@
 ---
 
 ### 🌐 Welcome to My Website
-My personal website is my digital home. It's where I share more about my background, document my ongoing learning journey, and write detailed blogs for the community.
-- ✍️ **Tech Blogs** on Flutter, Dart, and Cross-Platform Mobile Development.
-- 📚 **Learning Notes** on Reinforcement Learning, AI, and Machine Learning.
-- 🎓 **Study Materials** for GATE CSE.
+My personal website is my digital home. It's where I share more about my background, document my ongoing learning journey, and write detailed blogs
 
 <p align="center">
   <a href="https://vineelvanjari.com">
