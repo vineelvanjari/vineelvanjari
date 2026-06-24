@@ -25,6 +25,7 @@ My personal website is my digital home. It's where I share more about my backgro
     <img src="https://img.shields.io/badge/Explore_My_Website-vineelvanjari.com-1E3A8A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore Website" />
   </a>
 </p>
+
 ---
 
 ### 🛠️ Skills & Tech Stack
