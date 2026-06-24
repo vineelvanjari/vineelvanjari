@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1E3A8A,3B82F6&height=150&section=header" width="100%"/>
 
-<h2 align="center">Hey there, Vineel this side! 👋</h2>
+<h2 align="center">Hey there, Vineel this side</h2>
 
 <br/>
 
